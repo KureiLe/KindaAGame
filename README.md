@@ -11,7 +11,7 @@
 - Open the folder in file explorer <br>
 - Go to the directory text bar thing and type cmd <br>
 - Type "python main.py" <br>
-  <h3>Linux</h3>
+<h3>Linux</h3>
 - Download Python (I use version 3.8.5) with pip with pip optin checked on the installation <br>
 - Open terminal and type "pip install pygame" <br>
 - Go to the folder of the game that you installed <br>

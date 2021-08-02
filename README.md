@@ -1,8 +1,8 @@
 <h1>KindaAGame</h1>
 <h3>cry about it<h3>
-<h3>Skip the step if you already have it installed<h3> <br>
 
 <h2>How to run</h2>
+<h3>Skip the step if you already have it installed<h3>
 <h3>Windows</h3>
   
 - Download Python (I use version 3.8.5) with pip optin checked on the installation  <br>

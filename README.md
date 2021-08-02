@@ -1,5 +1,4 @@
 <h1>KindaAGame</h1>
-<h3>cry about it<h3>
 
 <h2>How to run</h2>
 <h3>Skip the step if you already have it installed<h3>
@@ -18,3 +17,6 @@
 - Go to the folder in file manager <br>
 - Right click and press open in terminal <br>
 - type "python main.py" <br>
+
+  
+<h3>hhhhhhhhhhh<h3>

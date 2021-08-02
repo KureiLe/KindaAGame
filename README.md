@@ -1,5 +1,5 @@
 <h1>KindaAGame</h1>
-<h3>just a test<h3>
+<h3>cry about it<h3>
 
 <h2>How to run</h2>
 <h3>Windows</h3>

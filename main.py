@@ -2,6 +2,7 @@ import pygame
 
 WIDTH, HEIGHT = 900, 800
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
+programIcon = pygame.image.load('assets/red.png')
 
 pygame.display.set_caption("ClayZe~")
 FPS = 60
@@ -59,6 +60,7 @@ def main():
 
     clock = pygame.time.Clock()
     run = True
+    pygame.display.set_icon(programIcon)
     while run:
         clock.tick(FPS)
         for event in pygame.event.get():

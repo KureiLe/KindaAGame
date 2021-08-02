@@ -7,7 +7,7 @@
 - Open command promp and type "pip install pygame" <br>
 - Go to the folder of the game that you installed <br>
 - Open the folder in file explorer <br>
-- Go to the directory and type cmd <br>
+- Go to the directory text bar thing and type cmd <br>
 - Type "python main.py" <br>
 <br>
 <h3>Linux</h3>

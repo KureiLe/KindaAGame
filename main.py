@@ -1,4 +1,5 @@
 import pygame
+from time import sleep
 
 # game
 programIcon = pygame.image.load('assets/marisa.png')
@@ -20,10 +21,18 @@ BORDER = pygame.Rect(20, 20, 500, 760)
 
 MENUIMG = pygame.image.load('assets/menubg.png')
 MENUTXT = pygame.image.load('assets/menutxt.png')
+MENUTXTRQ = pygame.Rect(-500, 0, 900, 800)
 
 def menu_screen():
     WIN.blit(MENUIMG, (0, 0))
-    WIN.blit(MENUTXT, (0, 0))
+    WIN.blit(MENUTXT, (MENUTXTRQ.x, MENUTXTRQ.y))
+
+    animation_speed_text = 50
+
+    if MENUTXTRQ.x <= 0:
+        MENUTXTRQ.x += animation_speed_text
+
+    
 
 def display_game():
     pygame.draw.rect(WIN, (0, 0, 0), BORDER)

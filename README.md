@@ -17,3 +17,5 @@
 - Go to the folder in file manager <br>
 - Right click and press open in terminal <br>
 - type "python main.py"
+
+<h2>To exit just press the x button on top right</h2>

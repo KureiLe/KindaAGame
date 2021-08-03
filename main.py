@@ -1,5 +1,4 @@
 import pygame
-from time import sleep
 
 # game
 programIcon = pygame.image.load('assets/marisa.png')

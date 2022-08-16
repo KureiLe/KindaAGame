@@ -1,5 +1,6 @@
 <h1>KindaAGame</h1>
 <h4>You really can't do anything in this game except move and slow down. Is it even a game?<h4>
+<h4>Also I made this code to learn more about this hard ass library<h4>
 
 <h2>How to run</h2>
 <h3>Skip the step if you already have it installed<h3>
